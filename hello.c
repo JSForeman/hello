@@ -8,7 +8,8 @@
 
  int main(int argc, char **argv) {
 
-   printf("Jack Foreman \n");
+   printf("Jack Foreman!!!~ \n");
+   printf("Computer Science/Math \n");
 
    return 0;
  }
