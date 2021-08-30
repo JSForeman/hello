@@ -10,6 +10,8 @@
 
    printf("Jack Foreman!!!~ \n");
    printf("Computer Science/Math \n");
+   printf("Nathaniel Robinson!\n");
+   printf("Mechanical Engineering\n");
 
    return 0;
  }
